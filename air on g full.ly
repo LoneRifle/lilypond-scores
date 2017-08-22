@@ -1,3 +1,5 @@
+CHEESE
+
 \new StaffGroup <<    
   \new Staff <<
     \set Staff.instrumentName = #"Cello"
